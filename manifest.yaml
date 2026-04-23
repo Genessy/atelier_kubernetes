@@ -6,7 +6,7 @@ metadata:
 data:
   config.json: |
     {
-      "message": "Bonjour Florent ! v2"
+      "message": "Bonjour Florent ! v2.5"
     }
 ---
 #Secret
